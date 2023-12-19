@@ -67,6 +67,5 @@ int main(void)
 		execute_command(argv);
 	}
 
-	printf("After execve\n");
 	return 0;
 }
