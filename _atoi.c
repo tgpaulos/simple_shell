@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  *_atoi - This function convert a string to an integer
